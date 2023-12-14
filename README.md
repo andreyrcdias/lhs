@@ -1,0 +1,4 @@
+# lhs
+
+Learning Haskell
+
